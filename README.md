@@ -3,7 +3,7 @@
 A simple HTML, CSS, and JavaScript-based password form that provides real-time feedback on password strength, with a clean UI and modular logic.
 
 ## 🚀 Live Demo
-Check it out here: [Password Strength Form](https://s999y.github.io/password/)
+Check it out here: [Password Strength Form](https://s999y.github.io/password/form.html)
 
 ## 📦 Features
 - Real-time feedback while typing
